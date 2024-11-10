@@ -17,6 +17,5 @@ The Tracker is a easy tool where you can put in the fighter you are playing, in 
 When the level is marked as done the owned Section (icons at the bottom) are changed accordingly.
 
 Known Problem:
-Sometimes the randomizer gets stuck trying to create a rom. In that case just restart it.
-
+Using a certain seed gives you the same characters but not same items... Will fix soon hopefully!
 
