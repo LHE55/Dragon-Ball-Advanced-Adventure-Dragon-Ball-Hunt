@@ -1,6 +1,7 @@
 This is a Dragon Ball Advanced Adventure Randomizer called Dragon Ball Hunt.
 In this Randomizer you need to find all seven Dragon Balls.
 In the RAR file is the tracker, made with unity and the .exe file is the pythonbased randomizer itself.
+In the Python folder are the python scripts, you can use that if you know how :)
 
 This randomizer changes a lot of things around and I try to explain them all a bit here.
 - New Goal: Finding all 7 Dragon Balls will end the game.
